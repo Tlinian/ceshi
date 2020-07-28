@@ -7,6 +7,7 @@ public class Origin
 	{
 		// TODO Auto-generated method stub
 		System.out.println("halloworld");
+		System.out.println("jjjjjjj");
 
 	}
 
